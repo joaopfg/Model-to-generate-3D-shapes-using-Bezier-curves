@@ -1,4 +1,4 @@
-# Model-to-generate-3D-shapes-using-B-zier-curves
+# Model-to-generate-3D-shapes-using-Bézier-curves
 A C++ implementation of a model to generate 3D shapes using Bézier curve made for course INF574 at École Polytechnique
 
 ### Libigl
